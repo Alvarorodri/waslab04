@@ -1,1 +1,2890 @@
-
+{
+    "statuses": [
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316947086938112,
+            "id_str": "1499316947086938112",
+            "text": "RT @IMatviyishyn: Ukrainians are posting bitter conversations with their relatives in Russia. Their uncles, cousins, grandparents do not be…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "IMatviyishyn",
+                        "name": "Iryna Matviyishyn",
+                        "id": 238724300,
+                        "id_str": "238724300",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1301521246987923458,
+                "id_str": "1301521246987923458",
+                "name": "🇺🇦 вишня кола",
+                "screen_name": "vjshnya_cola",
+                "location": "",
+                "description": "\\\\ туди сюди \\\\",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 102,
+                "listed_count": 0,
+                "created_at": "Thu Sep 03 14:03:59 +0000 2020",
+                "favourites_count": 14126,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 983,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1380623202716680193/HjT6J0Gk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380623202716680193/HjT6J0Gk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301521246987923458/1614166085",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Mar 02 17:47:52 +0000 2022",
+                "id": 1499079054250721286,
+                "id_str": "1499079054250721286",
+                "text": "Ukrainians are posting bitter conversations with their relatives in Russia. Their uncles, cousins, grandparents do… https://t.co/bpdVio1E18",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/bpdVio1E18",
+                            "expanded_url": "https://twitter.com/i/web/status/1499079054250721286",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 238724300,
+                    "id_str": "238724300",
+                    "name": "Iryna Matviyishyn",
+                    "screen_name": "IMatviyishyn",
+                    "location": "Kyiv, Ukraine",
+                    "description": "Ukrainian reporter: human rights, Russian war crimes, human stories | ex-@ukraine_world l EMA in Human Rights and Democratization @gchumanrights (views my own)",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 45482,
+                    "friends_count": 814,
+                    "listed_count": 946,
+                    "created_at": "Sat Jan 15 21:59:31 +0000 2011",
+                    "favourites_count": 5232,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1541,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1487108640054075401/ixGcCRf1_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487108640054075401/ixGcCRf1_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/238724300/1570439687",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7236,
+                "favorite_count": 28198,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7236,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316946738757635,
+            "id_str": "1499316946738757635",
+            "text": "RT @elconfidencial: EXCLUSIVA | El número dos de Puigdemont visitó un diario del Kremlin en 2019 y se fotografió con un retrato de Putin\nht…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "elconfidencial",
+                        "name": "El Confidencial",
+                        "id": 17229160,
+                        "id_str": "17229160",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 925061838898855937,
+                "id_str": "925061838898855937",
+                "name": "10carlitos10 🇪🇸👑",
+                "screen_name": "10carlitos1010",
+                "location": "Condado de Barcelona, España.",
+                "description": "Nacido en Barcelona, ESPAÑOL para todo lo demás. \nAñoro la Barcelona del 92, envidia del mundo.\nA partir de ahí la verguenza del nacionalismo.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4513,
+                "friends_count": 5002,
+                "listed_count": 2,
+                "created_at": "Mon Oct 30 18:08:24 +0000 2017",
+                "favourites_count": 280897,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 199528,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1467369316702212101/mbFO79L1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467369316702212101/mbFO79L1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/925061838898855937/1549525353",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Mar 03 07:30:00 +0000 2022",
+                "id": 1499285950446424065,
+                "id_str": "1499285950446424065",
+                "text": "EXCLUSIVA | El número dos de Puigdemont visitó un diario del Kremlin en 2019 y se fotografió con un retrato de Putin\nhttps://t.co/i7xG7RAE4m",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/i7xG7RAE4m",
+                            "expanded_url": "https://www.elconfidencial.com/espana/2022-03-03/ucrania-rusia-putin-puigdemont-alay-kremlin-diario_3385059/?utm_source=twitter&utm_medium=social&utm_campaign=ECExclusivo",
+                            "display_url": "elconfidencial.com/espana/2022-03…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 17229160,
+                    "id_str": "17229160",
+                    "name": "El Confidencial",
+                    "screen_name": "elconfidencial",
+                    "location": "moderador(@)elconfidencial.com",
+                    "description": "Somos independientes. ¿Y tú?  https://t.co/UNVi7FVrzG #SoyConfi",
+                    "url": "https://t.co/OlyDFM8NMe",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/OlyDFM8NMe",
+                                    "expanded_url": "https://www.elconfidencial.com",
+                                    "display_url": "elconfidencial.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/UNVi7FVrzG",
+                                    "expanded_url": "http://elconfidencial.com/suscribete/",
+                                    "display_url": "elconfidencial.com/suscribete/",
+                                    "indices": [
+                                        30,
+                                        53
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 952395,
+                    "friends_count": 246,
+                    "listed_count": 12300,
+                    "created_at": "Fri Nov 07 10:14:52 +0000 2008",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 321288,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1491461377403363329/YkpG8Af-_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491461377403363329/YkpG8Af-_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17229160/1644304631",
+                    "profile_link_color": "0A374A",
+                    "profile_sidebar_border_color": "919191",
+                    "profile_sidebar_fill_color": "EBEBEB",
+                    "profile_text_color": "006999",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 32,
+                "favorite_count": 41,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 32,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316946650681349,
+            "id_str": "1499316946650681349",
+            "text": "RT @CryptoCuke: @Carlo15993449 @cz_binance @ElonMansur @SaitaVader @mannythehitman @RainbowCatPutin @Rainbow Cat Putin ( $RCP )\n\nLOW MC GEM…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [
+                    {
+                        "text": "RCP",
+                        "indices": [
+                            121,
+                            125
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "CryptoCuke",
+                        "name": "CryptoCu",
+                        "id": 118452409,
+                        "id_str": "118452409",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "Carlo15993449",
+                        "name": "Stop War🚫 Save The Planet🌏",
+                        "id": 887233382056329216,
+                        "id_str": "887233382056329216",
+                        "indices": [
+                            16,
+                            30
+                        ]
+                    },
+                    {
+                        "screen_name": "cz_binance",
+                        "name": "CZ 🔶 Binance",
+                        "id": 902926941413453824,
+                        "id_str": "902926941413453824",
+                        "indices": [
+                            31,
+                            42
+                        ]
+                    },
+                    {
+                        "screen_name": "ElonMansur",
+                        "name": "SAITAMAN",
+                        "id": 1379246412437856256,
+                        "id_str": "1379246412437856256",
+                        "indices": [
+                            43,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "SaitaVader",
+                        "name": "Saita Vader",
+                        "id": 1405285857465180161,
+                        "id_str": "1405285857465180161",
+                        "indices": [
+                            55,
+                            66
+                        ]
+                    },
+                    {
+                        "screen_name": "mannythehitman",
+                        "name": "SAITAMA MKAY",
+                        "id": 1395073326947655682,
+                        "id_str": "1395073326947655682",
+                        "indices": [
+                            67,
+                            82
+                        ]
+                    },
+                    {
+                        "screen_name": "RainbowCatPutin",
+                        "name": "Rainbow Cat Putin",
+                        "id": 1497008309412323328,
+                        "id_str": "1497008309412323328",
+                        "indices": [
+                            83,
+                            99
+                        ]
+                    },
+                    {
+                        "screen_name": "Rainbow",
+                        "name": "Rainbow Beauty",
+                        "id": 21464850,
+                        "id_str": "21464850",
+                        "indices": [
+                            100,
+                            108
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 118452409,
+                "id_str": "118452409",
+                "name": "CryptoCu",
+                "screen_name": "CryptoCuke",
+                "location": "",
+                "description": "@ForWhalesBSC 🐳🐳🐳",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 90,
+                "friends_count": 390,
+                "listed_count": 23,
+                "created_at": "Sun Feb 28 18:56:16 +0000 2010",
+                "favourites_count": 5329,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8745,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498297114702618627/YaDDIJ1y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498297114702618627/YaDDIJ1y_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Mar 03 09:28:49 +0000 2022",
+                "id": 1499315849664020480,
+                "id_str": "1499315849664020480",
+                "text": "@Carlo15993449 @cz_binance @ElonMansur @SaitaVader @mannythehitman @RainbowCatPutin @Rainbow Cat Putin ( $RCP )\n\nLO… https://t.co/cJw8XlAHGE",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [
+                        {
+                            "text": "RCP",
+                            "indices": [
+                                105,
+                                109
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Carlo15993449",
+                            "name": "Stop War🚫 Save The Planet🌏",
+                            "id": 887233382056329216,
+                            "id_str": "887233382056329216",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        },
+                        {
+                            "screen_name": "cz_binance",
+                            "name": "CZ 🔶 Binance",
+                            "id": 902926941413453824,
+                            "id_str": "902926941413453824",
+                            "indices": [
+                                15,
+                                26
+                            ]
+                        },
+                        {
+                            "screen_name": "ElonMansur",
+                            "name": "SAITAMAN",
+                            "id": 1379246412437856256,
+                            "id_str": "1379246412437856256",
+                            "indices": [
+                                27,
+                                38
+                            ]
+                        },
+                        {
+                            "screen_name": "SaitaVader",
+                            "name": "Saita Vader",
+                            "id": 1405285857465180161,
+                            "id_str": "1405285857465180161",
+                            "indices": [
+                                39,
+                                50
+                            ]
+                        },
+                        {
+                            "screen_name": "mannythehitman",
+                            "name": "SAITAMA MKAY",
+                            "id": 1395073326947655682,
+                            "id_str": "1395073326947655682",
+                            "indices": [
+                                51,
+                                66
+                            ]
+                        },
+                        {
+                            "screen_name": "RainbowCatPutin",
+                            "name": "Rainbow Cat Putin",
+                            "id": 1497008309412323328,
+                            "id_str": "1497008309412323328",
+                            "indices": [
+                                67,
+                                83
+                            ]
+                        },
+                        {
+                            "screen_name": "Rainbow",
+                            "name": "Rainbow Beauty",
+                            "id": 21464850,
+                            "id_str": "21464850",
+                            "indices": [
+                                84,
+                                92
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/cJw8XlAHGE",
+                            "expanded_url": "https://twitter.com/i/web/status/1499315849664020480",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1499312703957094402,
+                "in_reply_to_status_id_str": "1499312703957094402",
+                "in_reply_to_user_id": 887233382056329216,
+                "in_reply_to_user_id_str": "887233382056329216",
+                "in_reply_to_screen_name": "Carlo15993449",
+                "user": {
+                    "id": 118452409,
+                    "id_str": "118452409",
+                    "name": "CryptoCu",
+                    "screen_name": "CryptoCuke",
+                    "location": "",
+                    "description": "@ForWhalesBSC 🐳🐳🐳",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 90,
+                    "friends_count": 390,
+                    "listed_count": 23,
+                    "created_at": "Sun Feb 28 18:56:16 +0000 2010",
+                    "favourites_count": 5329,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 8745,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1498297114702618627/YaDDIJ1y_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498297114702618627/YaDDIJ1y_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316946457829379,
+            "id_str": "1499316946457829379",
+            "text": "@cryptogems555 It's easy for NOTHING $000\n\nNOTHING token look so good\n\nhttps://t.co/gVJeCkjmxV\nhttps://t.co/nYdCoZW01g",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "cryptogems555",
+                        "name": "Crypto GEMs 📈🚀",
+                        "id": 4473212565,
+                        "id_str": "4473212565",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/gVJeCkjmxV",
+                        "expanded_url": "http://T.me/nothing_token_official",
+                        "display_url": "T.me/nothing_token_…",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/nYdCoZW01g",
+                        "expanded_url": "http://0000000-0.com",
+                        "display_url": "0000000-0.com",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1499314793639194627,
+            "in_reply_to_status_id_str": "1499314793639194627",
+            "in_reply_to_user_id": 4473212565,
+            "in_reply_to_user_id_str": "4473212565",
+            "in_reply_to_screen_name": "cryptogems555",
+            "user": {
+                "id": 1455924862699155539,
+                "id_str": "1455924862699155539",
+                "name": "#NoWarToken Putin Token - Official Account",
+                "screen_name": "putin_token",
+                "location": "",
+                "description": "$PUTIN Token is here to take over the Meme World!\n\nWE DON'T SUPPORT WAR!\nWe've been here for the meme, way before the war escalated.",
+                "url": "https://t.co/ws9CnJB1dZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ws9CnJB1dZ",
+                                "expanded_url": "https://Putin-token.com",
+                                "display_url": "Putin-token.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 252,
+                "friends_count": 86,
+                "listed_count": 4,
+                "created_at": "Wed Nov 03 15:48:45 +0000 2021",
+                "favourites_count": 643,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 222,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1488091920417046529/snIAOlYz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488091920417046529/snIAOlYz_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316946306699264,
+            "id_str": "1499316946306699264",
+            "text": "@lisaabramowicz1 Impoverishing Russia may at least prevent them from destroying any other countries. Regime change… https://t.co/dhuJ7BG0TW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "lisaabramowicz1",
+                        "name": "Lisa Abramowicz",
+                        "id": 1327359720,
+                        "id_str": "1327359720",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/dhuJ7BG0TW",
+                        "expanded_url": "https://twitter.com/i/web/status/1499316946306699264",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1499315232069586948,
+            "in_reply_to_status_id_str": "1499315232069586948",
+            "in_reply_to_user_id": 1327359720,
+            "in_reply_to_user_id_str": "1327359720",
+            "in_reply_to_screen_name": "lisaabramowicz1",
+            "user": {
+                "id": 1467763823901773825,
+                "id_str": "1467763823901773825",
+                "name": "Mike",
+                "screen_name": "Mike03507094",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 0,
+                "friends_count": 179,
+                "listed_count": 0,
+                "created_at": "Mon Dec 06 07:52:36 +0000 2021",
+                "favourites_count": 143,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 159,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316946231349248,
+            "id_str": "1499316946231349248",
+            "text": "@Inamcoded Black people supporting Putin is the same as jews wanting to meet Hitler. Africa has a lot to do to educ… https://t.co/6Ro6uhyQtN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Inamcoded",
+                        "name": "A UARian",
+                        "id": 1314815226517258241,
+                        "id_str": "1314815226517258241",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/6Ro6uhyQtN",
+                        "expanded_url": "https://twitter.com/i/web/status/1499316946231349248",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1499058872274796545,
+            "in_reply_to_status_id_str": "1499058872274796545",
+            "in_reply_to_user_id": 1314815226517258241,
+            "in_reply_to_user_id_str": "1314815226517258241",
+            "in_reply_to_screen_name": "Inamcoded",
+            "user": {
+                "id": 2165209187,
+                "id_str": "2165209187",
+                "name": "✌",
+                "screen_name": "ludovicdelacroi",
+                "location": "",
+                "description": "$bngo $nndm $gevo. Industry 4.0.\n\nlet's support Ukraine in the fight for Europe's freedom.✊️✊️✊️",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 67,
+                "friends_count": 21,
+                "listed_count": 3,
+                "created_at": "Sat Nov 02 18:22:58 +0000 2013",
+                "favourites_count": 452,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 632,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1497691529003118592/wRf0JNuX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497691529003118592/wRf0JNuX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2165209187/1411896116",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316945937747977,
+            "id_str": "1499316945937747977",
+            "text": "RT @DmytroKuleba: This is a true People’s War for Ukraine. Putin has no chance of winning it. On this photo civilians block Russian invader…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DmytroKuleba",
+                        "name": "Dmytro Kuleba",
+                        "id": 2885493519,
+                        "id_str": "2885493519",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1256617275060359171,
+                "id_str": "1256617275060359171",
+                "name": "katya | ke spoilers",
+                "screen_name": "evenvillain",
+                "location": "she/her | 24",
+                "description": "villaneve • art • 🔞 minors dni, thanks",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4186,
+                "friends_count": 253,
+                "listed_count": 9,
+                "created_at": "Sat May 02 16:11:36 +0000 2020",
+                "favourites_count": 14034,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 11854,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498007268981415943/H0zf7nmn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498007268981415943/H0zf7nmn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256617275060359171/1645614657",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Mar 03 08:37:10 +0000 2022",
+                "id": 1499302851339866113,
+                "id_str": "1499302851339866113",
+                "text": "This is a true People’s War for Ukraine. Putin has no chance of winning it. On this photo civilians block Russian i… https://t.co/64s9hPP8qs",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/64s9hPP8qs",
+                            "expanded_url": "https://twitter.com/i/web/status/1499302851339866113",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2885493519,
+                    "id_str": "2885493519",
+                    "name": "Dmytro Kuleba",
+                    "screen_name": "DmytroKuleba",
+                    "location": "Київ",
+                    "description": "Міністр закордонних справ України 🇺🇦 Minister of Foreign Affairs of Ukraine",
+                    "url": "https://t.co/wbYucG514L",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wbYucG514L",
+                                    "expanded_url": "https://uk.m.wikipedia.org/wiki/Кулеба_Дмитро_Іванович",
+                                    "display_url": "uk.m.wikipedia.org/wiki/Кулеба_Дм…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 536674,
+                    "friends_count": 205,
+                    "listed_count": 4348,
+                    "created_at": "Thu Nov 20 11:38:47 +0000 2014",
+                    "favourites_count": 2217,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 6787,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1472942032658255884/7Us20zY2_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472942032658255884/7Us20zY2_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2885493519/1553523485",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2698,
+                "favorite_count": 9896,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2698,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316945501437953,
+            "id_str": "1499316945501437953",
+            "text": "RT @ayyildirim1: Şayet tarihin şahitliğine müracaat edersek bırakınız Putin'i, Türk milletinin karşısında konuşmaya, ahkam kesmeye, tarih h…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ayyildirim1",
+                        "name": "Ahmet Yiğit Yıldırım",
+                        "id": 194915782,
+                        "id_str": "194915782",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2984720213,
+                "id_str": "2984720213",
+                "name": "Fırat YAMAN",
+                "screen_name": "yamanoglufrt",
+                "location": "",
+                "description": "🇹🇷Muş Ülkü Ocakları Teşkilatlardan Sorumlu İl Başkan Yardımcısı 🇹🇷🇦🇿",
+                "url": "https://t.co/nkoSQV574P",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nkoSQV574P",
+                                "expanded_url": "https://www.instagram.com/firatyamanoglu",
+                                "display_url": "instagram.com/firatyamanoglu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 911,
+                "friends_count": 291,
+                "listed_count": 0,
+                "created_at": "Sun Jan 18 21:55:21 +0000 2015",
+                "favourites_count": 55909,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5662,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498411354952187908/joG4HWCU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498411354952187908/joG4HWCU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2984720213/1639129103",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Mar 03 07:58:46 +0000 2022",
+                "id": 1499293188238028800,
+                "id_str": "1499293188238028800",
+                "text": "Şayet tarihin şahitliğine müracaat edersek bırakınız Putin'i, Türk milletinin karşısında konuşmaya, ahkam kesmeye,… https://t.co/2bPl4xp2bA",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bPl4xp2bA",
+                            "expanded_url": "https://twitter.com/i/web/status/1499293188238028800",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "tr"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 194915782,
+                    "id_str": "194915782",
+                    "name": "Ahmet Yiğit Yıldırım",
+                    "screen_name": "ayyildirim1",
+                    "location": "Türkiye",
+                    "description": "Ülkü Ocakları Eğitim ve Kültür Vakfı Genel Başkanı",
+                    "url": "https://t.co/dCSnuVlgLZ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/dCSnuVlgLZ",
+                                    "expanded_url": "http://www.ulkuocaklari.org.tr",
+                                    "display_url": "ulkuocaklari.org.tr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 84911,
+                    "friends_count": 519,
+                    "listed_count": 47,
+                    "created_at": "Sat Sep 25 09:18:21 +0000 2010",
+                    "favourites_count": 8816,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 14036,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1392818617163603968/rUxM-i-C_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392818617163603968/rUxM-i-C_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/194915782/1630126273",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 444,
+                "favorite_count": 549,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "tr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 444,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tr"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944813674496,
+            "id_str": "1499316944813674496",
+            "text": "@Isra_C_ @ngelitobravo1 @OsRoban @laforjadeltitan Parece q algunos pensais que Putin fué \"elegido\" ayer. Lleva 20 a… https://t.co/3B726INMnM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Isra_C_",
+                        "name": "Isra",
+                        "id": 384827889,
+                        "id_str": "384827889",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "ngelitobravo1",
+                        "name": "Ángel Bravo",
+                        "id": 1084076984886530049,
+                        "id_str": "1084076984886530049",
+                        "indices": [
+                            9,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "OsRoban",
+                        "name": "🇪🇦 ENGAÑADA SAQUEADA DIVIDIDA",
+                        "id": 908711303161708550,
+                        "id_str": "908711303161708550",
+                        "indices": [
+                            24,
+                            32
+                        ]
+                    },
+                    {
+                        "screen_name": "laforjadeltitan",
+                        "name": "Rubén 🏛️ 🇯🇪",
+                        "id": 1175365568087625729,
+                        "id_str": "1175365568087625729",
+                        "indices": [
+                            33,
+                            49
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3B726INMnM",
+                        "expanded_url": "https://twitter.com/i/web/status/1499316944813674496",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1499306537092845569,
+            "in_reply_to_status_id_str": "1499306537092845569",
+            "in_reply_to_user_id": 384827889,
+            "in_reply_to_user_id_str": "384827889",
+            "in_reply_to_screen_name": "Isra_C_",
+            "user": {
+                "id": 422094133,
+                "id_str": "422094133",
+                "name": "Rodri",
+                "screen_name": "RodriCalpe",
+                "location": "Calpe",
+                "description": "La ignorancia te absuelve de ser indigno pero no de ser ignorante. #AbstenciónActiva",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 370,
+                "friends_count": 645,
+                "listed_count": 3,
+                "created_at": "Sat Nov 26 20:10:48 +0000 2011",
+                "favourites_count": 4054,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10888,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3E4447",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1024561183838400512/2zBWE136_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024561183838400512/2zBWE136_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/422094133/1406109278",
+                "profile_link_color": "6B0075",
+                "profile_sidebar_border_color": "9EDFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944805273602,
+            "id_str": "1499316944805273602",
+            "text": "RT @FUATUGUR: Akşener:\n“Putin haddini aşmıştır, vakit çekimser kalma değil, zalimin karşısında dik durma vaktidir. Köprüleri tamamen atın”…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FUATUGUR",
+                        "name": "Fuat Uğur🇹🇷",
+                        "id": 124176500,
+                        "id_str": "124176500",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1081610149444374528,
+                "id_str": "1081610149444374528",
+                "name": "Sibel",
+                "screen_name": "Sibel55461302",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 25,
+                "friends_count": 44,
+                "listed_count": 0,
+                "created_at": "Sat Jan 05 17:55:29 +0000 2019",
+                "favourites_count": 8720,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8336,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Mar 02 11:58:08 +0000 2022",
+                "id": 1498991041126576128,
+                "id_str": "1498991041126576128",
+                "text": "Akşener:\n“Putin haddini aşmıştır, vakit çekimser kalma değil, zalimin karşısında dik durma vaktidir. Köprüleri tama… https://t.co/spWHMwoH02",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/spWHMwoH02",
+                            "expanded_url": "https://twitter.com/i/web/status/1498991041126576128",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "tr"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 124176500,
+                    "id_str": "124176500",
+                    "name": "Fuat Uğur🇹🇷",
+                    "screen_name": "FUATUGUR",
+                    "location": "",
+                    "description": "Türkiye Gazetesi yazarı. Öykü kitapları: Kutsal Tiber'e Yolculuk,Yalnız Ruhlara Elma Şekeri, KÖÇEK/Herkese Kendi Rengindedir Ölüm. İnstagram: @fuat_ugur1864",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 212360,
+                    "friends_count": 4320,
+                    "listed_count": 519,
+                    "created_at": "Thu Mar 18 14:16:23 +0000 2010",
+                    "favourites_count": 29243,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 101934,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1496834451510374409/98bQj-CD_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496834451510374409/98bQj-CD_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/124176500/1545108815",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1098,
+                "favorite_count": 5687,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "tr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1098,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tr"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944582946818,
+            "id_str": "1499316944582946818",
+            "text": "RT @BenderOfuscado: Solo porque Abascal se haga fotos con los colegas de Putin, retuitee a Putin y tenga el mismo programa que Putin, ya de…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BenderOfuscado",
+                        "name": "Bender El Que Ofende",
+                        "id": 920023062115946498,
+                        "id_str": "920023062115946498",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 455736301,
+                "id_str": "455736301",
+                "name": "Alcaba",
+                "screen_name": "alcaba91",
+                "location": "Variado",
+                "description": "Enfermero en UK. Persona cada día en modelación.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 150,
+                "friends_count": 263,
+                "listed_count": 6,
+                "created_at": "Thu Jan 05 13:11:27 +0000 2012",
+                "favourites_count": 8228,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12462,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/909891070338748417/WFuULhtY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/909891070338748417/WFuULhtY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/455736301/1365758594",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Mar 02 12:38:33 +0000 2022",
+                "id": 1499001209264513024,
+                "id_str": "1499001209264513024",
+                "text": "Solo porque Abascal se haga fotos con los colegas de Putin, retuitee a Putin y tenga el mismo programa que Putin, y… https://t.co/fEkQntpPo2",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/fEkQntpPo2",
+                            "expanded_url": "https://twitter.com/i/web/status/1499001209264513024",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 920023062115946498,
+                    "id_str": "920023062115946498",
+                    "name": "Bender El Que Ofende",
+                    "screen_name": "BenderOfuscado",
+                    "location": "",
+                    "description": "Besa mi brillante culo metálico!",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 31740,
+                    "friends_count": 366,
+                    "listed_count": 103,
+                    "created_at": "Mon Oct 16 20:26:06 +0000 2017",
+                    "favourites_count": 58921,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 27373,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1476488569959104515/O-VCzS3C_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1476488569959104515/O-VCzS3C_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/920023062115946498/1640857325",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 445,
+                "favorite_count": 1504,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 445,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944410976263,
+            "id_str": "1499316944410976263",
+            "text": "RT @mad_boiss: Follow @Sportsbetio and join #BitcasinoxTekno revolution. Bet using crypto \n\nTime for the Bitcasino Big Boys. Are you ready?…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BitcasinoxTekno",
+                        "indices": [
+                            44,
+                            60
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mad_boiss",
+                        "name": "I THINK",
+                        "id": 977626231087751168,
+                        "id_str": "977626231087751168",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "Sportsbetio",
+                        "name": "Sportsbet.io",
+                        "id": 727759996822392832,
+                        "id_str": "727759996822392832",
+                        "indices": [
+                            22,
+                            34
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1436791328193585152,
+                "id_str": "1436791328193585152",
+                "name": "TAXIN",
+                "screen_name": "tvksxin",
+                "location": "Hood",
+                "description": "RONG RENDE SH!T   \n                        \nother account @tvgxin",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 803,
+                "friends_count": 506,
+                "listed_count": 0,
+                "created_at": "Sat Sep 11 20:39:07 +0000 2021",
+                "favourites_count": 10549,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3657,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1492573575420825600/CIGvCx3c_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492573575420825600/CIGvCx3c_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436791328193585152/1644484838",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Mar 03 09:00:49 +0000 2022",
+                "id": 1499308805049434112,
+                "id_str": "1499308805049434112",
+                "text": "Follow @Sportsbetio and join #BitcasinoxTekno revolution. Bet using crypto \n\nTime for the Bitcasino Big Boys. Are y… https://t.co/lP9b7mkcOn",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "BitcasinoxTekno",
+                            "indices": [
+                                29,
+                                45
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Sportsbetio",
+                            "name": "Sportsbet.io",
+                            "id": 727759996822392832,
+                            "id_str": "727759996822392832",
+                            "indices": [
+                                7,
+                                19
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/lP9b7mkcOn",
+                            "expanded_url": "https://twitter.com/i/web/status/1499308805049434112",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 977626231087751168,
+                    "id_str": "977626231087751168",
+                    "name": "I THINK",
+                    "screen_name": "mad_boiss",
+                    "location": "",
+                    "description": "Serendipity/🍁//MAD COOL/6k?",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 5364,
+                    "friends_count": 551,
+                    "listed_count": 1,
+                    "created_at": "Sat Mar 24 19:20:31 +0000 2018",
+                    "favourites_count": 98178,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 83193,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1492853502665805824/RrrkPmWX_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492853502665805824/RrrkPmWX_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/977626231087751168/1644758984",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 57,
+                "favorite_count": 47,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 57,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944347959296,
+            "id_str": "1499316944347959296",
+            "text": "@djdave2020 He doesn't seem to like America very much.\nOn the other hand if America attacks Putin and ugly scenario… https://t.co/JQDbdTQZoq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "djdave2020",
+                        "name": "⚡Djdave1500⚡",
+                        "id": 1290804335484510208,
+                        "id_str": "1290804335484510208",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/JQDbdTQZoq",
+                        "expanded_url": "https://twitter.com/i/web/status/1499316944347959296",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1499146726611079173,
+            "in_reply_to_status_id_str": "1499146726611079173",
+            "in_reply_to_user_id": 1290804335484510208,
+            "in_reply_to_user_id_str": "1290804335484510208",
+            "in_reply_to_screen_name": "djdave2020",
+            "user": {
+                "id": 12303472,
+                "id_str": "12303472",
+                "name": "Alex",
+                "screen_name": "alexgreat",
+                "location": "Aotearoa",
+                "description": "I am an interpreter, poet and apprentice philosopher. Happiness and understanding is possible only if you know what you want and go after it in a reasonable way",
+                "url": "https://t.co/gqzfMwXm8h",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gqzfMwXm8h",
+                                "expanded_url": "http://factsandtheoriessite.wordpress.com",
+                                "display_url": "factsandtheoriessite.wordpress.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1298,
+                "friends_count": 3064,
+                "listed_count": 11,
+                "created_at": "Wed Jan 16 02:21:41 +0000 2008",
+                "favourites_count": 51681,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16074,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1325548968/SomewhereSmallEdit_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325548968/SomewhereSmallEdit_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/12303472/1496016643",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:10 +0000 2022",
+            "id": 1499316944226643974,
+            "id_str": "1499316944226643974",
+            "text": "RT @dhruv_rathee: “Putin is not wrong because if Ukraine joins NATO then it’s a threat for Russia. \nRussia is only protecting itself”\n\n☝️\nI…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "dhruv_rathee",
+                        "name": "Dhruv Rathee 🇮🇳",
+                        "id": 730520573701443584,
+                        "id_str": "730520573701443584",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1184656158440615936,
+                "id_str": "1184656158440615936",
+                "name": "The Memories",
+                "screen_name": "Tapan509",
+                "location": "Proxima Centauri",
+                "description": "A 2020 Survivor !!",
+                "url": "https://t.co/m0a8SKia70",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/m0a8SKia70",
+                                "expanded_url": "https://spoti.fi/3xNXdPm",
+                                "display_url": "spoti.fi/3xNXdPm",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 117,
+                "friends_count": 303,
+                "listed_count": 0,
+                "created_at": "Thu Oct 17 02:23:48 +0000 2019",
+                "favourites_count": 969,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 94,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1493444277891788806/t-6OaKry_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493444277891788806/t-6OaKry_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184656158440615936/1644900357",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Mar 02 11:31:26 +0000 2022",
+                "id": 1498984319590842370,
+                "id_str": "1498984319590842370",
+                "text": "“Putin is not wrong because if Ukraine joins NATO then it’s a threat for Russia. \nRussia is only protecting itself”… https://t.co/y2vr8kKwmV",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/y2vr8kKwmV",
+                            "expanded_url": "https://twitter.com/i/web/status/1498984319590842370",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 730520573701443584,
+                    "id_str": "730520573701443584",
+                    "name": "Dhruv Rathee 🇮🇳",
+                    "screen_name": "dhruv_rathee",
+                    "location": "",
+                    "description": "YouTuber: 6 million+ subs⚡️Activism for a better world • Traveller • Politically Centrist • Vegetarian • Be the change you want to see",
+                    "url": "https://t.co/aXcQq9jLF8",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/aXcQq9jLF8",
+                                    "expanded_url": "https://t.me/DhruvRathee",
+                                    "display_url": "t.me/DhruvRathee",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1317847,
+                    "friends_count": 591,
+                    "listed_count": 826,
+                    "created_at": "Wed May 11 22:10:52 +0000 2016",
+                    "favourites_count": 8682,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 5250,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1257381512498077696/ACJBYZ-n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257381512498077696/ACJBYZ-n_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/730520573701443584/1519763155",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1555,
+                "favorite_count": 12459,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1555,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Mar 03 09:33:09 +0000 2022",
+            "id": 1499316943131664385,
+            "id_str": "1499316943131664385",
+            "text": "RT @Karistofsky: Es una vergüenza que un medio público se utilice como altavoz de las gilipolleces de una ultraderecha que hasta ayer le co…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Karistofsky",
+                        "name": "Miguel Charisteas",
+                        "id": 927256976807129088,
+                        "id_str": "927256976807129088",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1071434935544766464,
+                "id_str": "1071434935544766464",
+                "name": "MANU 🔻🎗️🟪 🟨 🟥",
+                "screen_name": "Mabagi",
+                "location": "",
+                "description": "Llibertat\n\n#llibertatpresesipresospoliticsiexiliats\n#AltsasukoakASKE\n\n#FemXarxa",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 818,
+                "friends_count": 1453,
+                "listed_count": 1,
+                "created_at": "Sat Dec 08 16:02:49 +0000 2018",
+                "favourites_count": 34793,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11703,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1339656080872394758/rGOrGFY5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339656080872394758/rGOrGFY5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071434935544766464/1544637086",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Mar 02 09:46:29 +0000 2022",
+                "id": 1498957909841137665,
+                "id_str": "1498957909841137665",
+                "text": "Es una vergüenza que un medio público se utilice como altavoz de las gilipolleces de una ultraderecha que hasta aye… https://t.co/FyqHncvhR7",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/FyqHncvhR7",
+                            "expanded_url": "https://twitter.com/i/web/status/1498957909841137665",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 927256976807129088,
+                    "id_str": "927256976807129088",
+                    "name": "Miguel Charisteas",
+                    "screen_name": "Karistofsky",
+                    "location": "",
+                    "description": "Un rojo cualquiera 🍻 Comento la actualidad política en YouTube y los domingos alguna que otra cosa en @LUH_noticias",
+                    "url": "https://t.co/YD8Po7rUoV",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/YD8Po7rUoV",
+                                    "expanded_url": "http://youtube.com/c/MiguelCharisteas",
+                                    "display_url": "youtube.com/c/MiguelCharis…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33610,
+                    "friends_count": 925,
+                    "listed_count": 72,
+                    "created_at": "Sun Nov 05 19:31:05 +0000 2017",
+                    "favourites_count": 18654,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 4851,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1494721875196456969/sUUtIcAz_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494721875196456969/sUUtIcAz_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/927256976807129088/1627717851",
+                    "profile_link_color": "2F7CC0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1498955305992048645,
+                "quoted_status_id_str": "1498955305992048645",
+                "quoted_status": {
+                    "created_at": "Wed Mar 02 09:36:08 +0000 2022",
+                    "id": 1498955305992048645,
+                    "id_str": "1498955305992048645",
+                    "text": "Abascal recrimina a Sánchez que sus socios de investidura son \"cómplices directos\" de Rusia: \"A través de sus parti… https://t.co/1wbHnjrqdu",
+                    "truncated": true,
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/1wbHnjrqdu",
+                                "expanded_url": "https://twitter.com/i/web/status/1498955305992048645",
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    },
+                    "metadata": {
+                        "iso_language_code": "es",
+                        "result_type": "recent"
+                    },
+                    "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 39321874,
+                        "id_str": "39321874",
+                        "name": "RTVE Noticias",
+                        "screen_name": "rtvenoticias",
+                        "location": "",
+                        "description": "La actualidad al minuto en @rtve \n▪https://t.co/kwp0u6LCE6\n▪IG: https://t.co/YDdelHs6FP\n▪Facebook: https://t.co/5WHlrF8FNB\n▪Youtube: https://t.co/srvqHQp4fJ",
+                        "url": "https://t.co/RPKbiPhgmz",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/RPKbiPhgmz",
+                                        "expanded_url": "http://www.rtve.es/noticias",
+                                        "display_url": "rtve.es/noticias",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/kwp0u6LCE6",
+                                        "expanded_url": "http://rtve.es/noticias",
+                                        "display_url": "rtve.es/noticias",
+                                        "indices": [
+                                            35,
+                                            58
+                                        ]
+                                    },
+                                    {
+                                        "url": "https://t.co/YDdelHs6FP",
+                                        "expanded_url": "http://instagram.com/rtvenoticias",
+                                        "display_url": "instagram.com/rtvenoticias",
+                                        "indices": [
+                                            64,
+                                            87
+                                        ]
+                                    },
+                                    {
+                                        "url": "https://t.co/5WHlrF8FNB",
+                                        "expanded_url": "http://facebook.com/rtvenoticias/",
+                                        "display_url": "facebook.com/rtvenoticias/",
+                                        "indices": [
+                                            99,
+                                            122
+                                        ]
+                                    },
+                                    {
+                                        "url": "https://t.co/srvqHQp4fJ",
+                                        "expanded_url": "http://youtube.com/rtvenoticias",
+                                        "display_url": "youtube.com/rtvenoticias",
+                                        "indices": [
+                                            133,
+                                            156
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 1487022,
+                        "friends_count": 959,
+                        "listed_count": 9056,
+                        "created_at": "Mon May 11 19:34:19 +0000 2009",
+                        "favourites_count": 3703,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 379235,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "9AE4E8",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1318466550190559232/WvKM8ENd_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318466550190559232/WvKM8ENd_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39321874/1603181897",
+                        "profile_link_color": "0084B4",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "C1194D",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 9,
+                    "favorite_count": 22,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "es"
+                },
+                "retweet_count": 230,
+                "favorite_count": 600,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1498955305992048645,
+            "quoted_status_id_str": "1498955305992048645",
+            "retweet_count": 230,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.055,
+        "max_id": 1499316947086938112,
+        "max_id_str": "1499316947086938112",
+        "next_results": "?max_id=1499316943131664384&q=Putin&include_entities=1",
+        "query": "Putin",
+        "refresh_url": "?since_id=1499316947086938112&q=Putin&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
