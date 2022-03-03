@@ -88,7 +88,7 @@
             "contributors": null,
             "retweeted_status": {
                 "created_at": "Wed Mar 02 17:47:52 +0000 2022",
-                "id": 1499079054250721286,
+                "id": 1499079054250721286, 
                 "id_str": "1499079054250721286",
                 "text": "Ukrainians are posting bitter conversations with their relatives in Russia. Their uncles, cousins, grandparents do… https://t.co/bpdVio1E18",
                 "truncated": true,
