@@ -56,7 +56,7 @@ public class SimpleClient {
 	    TwitterStream twitterStream = new TwitterStreamFactory().getInstance();
 	    
 	    twitterStream.addListener(listener);
-	    twitterStream.sample();
-	    
+	    //twitterStream.sample();
+	    twitterStream.filter("#covid19");
 	}
 }
